@@ -54,7 +54,7 @@ img {
    }
 
 li {
-    margin-left: 16.3em;
+    list-style: inside;
 }
 
 table {
